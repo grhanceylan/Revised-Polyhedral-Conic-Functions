@@ -1,5 +1,5 @@
 # Revised-Polyhedral-Conic-Function Algorithm for Supervised Classification
-This repository contains, implementation of the polyhedral conic function algorithms and experiment setups presented in paper Revised Polyhedral Conic Functions Algorithm
+This repository contains, implementation of the polyhedral conic function algorithms and experiment setups. If you use these implementation in a scientific publication, we would appreciate citations to the following paper:
 
 
 
