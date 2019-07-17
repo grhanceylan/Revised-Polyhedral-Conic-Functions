@@ -16,22 +16,23 @@ Implemented Algorithms:
 
 
 Experiment Setups:
-           experimentSetupPCF.py: This file contains experiment setup  for PCF Algorithm by using PCF.py
-                                   -classification, binary 
-                                   -sampling, srattified 10-fold cross validation
+
+     experimentSetupPCF.py:               This file contains experiment setup  for PCF Algorithm by using PCF.py
+                                                -classification, binary 
+                                                -sampling, srattified 10-fold cross validation
                                    
-           experimentSetupPCFMultiLabel.py: This file contains experiment setup  for PCF Algorithm by using PCF.py
-      
-                                             -classification, multiclass, one vs All
-                                             -sampling, training-test
+     experimentSetupPCFMultiLabel.py:     This file contains experiment setup  for PCF Algorithm by using PCF.py
+                                                -classification, multiclass, one vs All
+                                                -sampling, training-test
                                              
-          experimentSetupKmeansPCF.py:  This file contains experiment setup  for PCF Algorithm by using kmeansPCF.py
-                                        -classification, multiclass, one vs All
-                                        -sampling, training-test
+     experimentSetupKmeansPCF.py:         This file contains experiment setup  for PCF Algorithm by using kmeansPCF.py
+                                                -classification, multiclass, one vs All
+                                                -sampling, training-test
                                         
-          experimentSetupRPCF.py: This file contains experiment setup  for revised PCF Algorithm by using rPCF.py
-                                     -classification, binary 
-                                     -sampling, srattified 10-fold cross validation
-         experimentSetupRPCFMultiLabel.py: This file contains experiment setup  for revised PCF Algorithm by using rPCF.py
-                                          -classification, multiclass, one vs All
-                                             -sampling, training-test
+     experimentSetupRPCF.py:              This file contains experiment setup  for revised PCF Algorithm by using rPCF.py
+                                                -classification, binary 
+                                                -sampling, srattified 10-fold cross validation
+                             
+     experimentSetupRPCFMultiLabel.py:    This file contains experiment setup  for revised PCF Algorithm by using rPCF.py
+                                                -classification, multiclass, one vs All
+                                                -sampling, training-test
