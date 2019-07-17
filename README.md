@@ -8,7 +8,7 @@ Requirments:
       Python 2.7
       Numpy
       Scikit-Learn
-      Gurobi Optimization Tool, gurobi.py
+      Gurobi Optimization Tool
 
 Implemented Algorithms:
 
