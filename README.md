@@ -13,7 +13,7 @@ Requirments:
 Implemented Algorithms:
 
         PCF.py:         Implementation of the algorithm presented in 
-                        Seperation via polyhedral conic functions, Gasimov and Ozturk, 2006
+                        [Seperation via polyhedral conic functions, Gasimov and Ozturk, 2006](https://www.tandfonline.com/doi/full/10.1080/10556780600723252)
 
        kmeansPCF.py:    Implementation of kmeans PCF Algorithm presented in
                         Journal of Industrial & Management Optimization 11.3 (2015): 921-932
