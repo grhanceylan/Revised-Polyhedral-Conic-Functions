@@ -13,8 +13,8 @@ This repository contains, implementation of the polyhedral conic function algori
 
 # Requirments:
 
-      Python 2.7
       Numpy
+      Python 2.7
       Scikit-Learn
       Gurobi Optimization Tool
 
@@ -29,7 +29,7 @@ This repository contains, implementation of the polyhedral conic function algori
        rPCF.py:        Implementation of Revised Polyhedral Conic Functions Algorithm presented in
 
 
-#Experiment Setups:
+# Experiment Setups:
 
      experimentSetupPCF.py:               This file contains experiment setup  for PCF Algorithm by using PCF.py
                                                 -classification, binary 
